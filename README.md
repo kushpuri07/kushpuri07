@@ -17,7 +17,6 @@ Currently building AI powered applications and exploring the intersection of mac
 
 ---
 <img width="220" height="220" alt="cat-computer" src="https://github.com/user-attachments/assets/5aeb295c-80cb-4fa6-9f34-a0cc8e485c4c" />
-<img width="1000" height="756" alt="06f21a161921919 63cd7887d0a70" src="https://github.com/user-attachments/assets/da562e22-1617-4b33-bb1d-74558e65a465" />
 
 ## GitHub Stats
 <p align="center">
