@@ -19,11 +19,6 @@ Currently building AI powered applications and exploring the intersection of mac
 <img width="220" height="220" alt="cat-computer" src="https://github.com/user-attachments/assets/5aeb295c-80cb-4fa6-9f34-a0cc8e485c4c" />
 
 ## GitHub Stats
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushpuri07&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
 
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=kushpuri07&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=kushpuri07&theme=tokyonight&hide_border=true)
